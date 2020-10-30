@@ -26,7 +26,7 @@ gem 'simple_form'
 gem 'annotate'
 gem 'rails-i18n'
 gem 'devise'
-# gem 'cocoon'
+gem 'cocoon'
 # gem 'cancancan'
 # gem 'font-awesome-sass', '~> 5.12.0'
 

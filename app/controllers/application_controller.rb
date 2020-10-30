@@ -1,6 +1,8 @@
 class ApplicationController < ActionController::Base
   before_action :set_local
 
+  before_action :authenticate_user!
+
   private
 
   def set_local
