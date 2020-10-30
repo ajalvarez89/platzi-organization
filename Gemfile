@@ -26,8 +26,10 @@ gem 'simple_form'
 gem 'annotate'
 gem 'rails-i18n'
 gem 'devise'
+#formularios dinamicos
 gem 'cocoon'
-# gem 'cancancan'
+# permisos
+gem 'cancancan'
 # gem 'font-awesome-sass', '~> 5.12.0'
 
 # Use Active Storage variant
@@ -48,8 +50,8 @@ group :development do
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.2'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
-  gem 'spring'
-  gem 'spring-watcher-listen', '~> 2.0.0'
+  # gem 'spring'
+  # gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'hamlit-rails'
 end
 
