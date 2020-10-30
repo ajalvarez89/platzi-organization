@@ -13,6 +13,11 @@ es:
       description: Descripción
       name: Nombre
     new_category: Nueva Categoria
+  common:
+    back: Atrás
+  task:
+    errors:
+      invalid_due_date: Fecha invalida
   tasks:
     form:
       category: Categoría
@@ -20,5 +25,3 @@ es:
       due_date: Fecha
       name: Nombre
     new_task: Nueva tarea
-  common:
-    back: Atrás

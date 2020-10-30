@@ -5,11 +5,19 @@ en:
       category:
         one: Categoría
         otheres: Categorías
+      task:
+        one: Tarea
+        otheres: Tareas
   categories:
     form:
       description: Description
       name: Name
     new_category: New category
+  common:
+    back: Atrás
+  task:
+    errors:
+      invalid_due_date: Invalid due date
   tasks:
     form:
       category: Category
@@ -17,6 +25,3 @@ en:
       due_date: Due date
       name: Name
     new_task: New task
-  common:
-    back: Atrás
-        
